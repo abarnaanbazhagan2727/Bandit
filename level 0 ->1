@@ -1,0 +1,14 @@
+Bandit level 0 -> level 1
+##🎯 Objective
+Connect to the Bandit game server using SSH.
+## 💻 Command Used
+```bash
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+#password
+bandit0
+#exit and enter to next level
+🧠 What I Learned
+How to connect to a remote Linux server using SSH
+SSH username
+SSH hostname
+SSH port
