@@ -6,6 +6,9 @@ Connect to the Bandit game server using SSH.
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 #password
 bandit0
+then command ls -al should put down to get the hidden file readme 
+then cat readme 
+get the password : 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
 #exit and enter to next level
 🧠 What I Learned
 How to connect to a remote Linux server using SSH
